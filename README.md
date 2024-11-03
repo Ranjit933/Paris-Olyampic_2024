@@ -1,5 +1,7 @@
 # Power BI Dashboard on Paris Olyampic 2024
 
+![](https://github.com/Ranjit933/Paris-Olyampic_2024/blob/main/paris.png)
+
 # Olympia 2024 Power BI Dashboard - Comprehensive Data Analysis & Visualization
 
 This Power BI dashboard for Olympia 2024 showcases a complete data analysis process from data cleaning to final visualization. It provides an interactive platform to explore the event schedules, athlete profiles, country performance, and real-time medal standings for Olympia 2024. Ideal for both sports enthusiasts and data analysts, this dashboard combines thorough data manipulation techniques and dynamic visualizations, offering users insightful views and meaningful trends across various dimensions of the Games.
